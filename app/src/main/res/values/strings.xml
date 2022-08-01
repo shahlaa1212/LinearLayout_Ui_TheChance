@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Task_Ui</string>
     <string name="personName">shahlaa Haider</string>
-    <string name="location">Baghdad</string>
+    <string name="location">UK</string>
     <string name="reviews">(150 Review)</string>
     <string name="rating">5.4</string>
-    <string name="specialty">Android</string>
+    <string name="specialty">Engineer</string>
     <string name="Time">3 hr</string>
     <string name="country">Russain</string>
     <string name="totalDays">5 Days ago</string>

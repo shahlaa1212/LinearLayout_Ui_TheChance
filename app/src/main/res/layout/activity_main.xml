@@ -11,26 +11,26 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/mediumMargin"
+        android:layout_margin="@dimen/mediumScale"
         android:background="@drawable/corners_layout"
-        android:padding="@dimen/smallPadding">
+        android:padding="@dimen/smallScale">
 
-        <com.google.android.material.imageview.ShapeableImageView
+        <ImageView
             android:layout_width="100dp"
             android:layout_height="150dp"
             android:src="@drawable/prof"
-            android:layout_marginEnd="@dimen/smallMergin"/>
+            android:layout_marginEnd="@dimen/smallScale"/>
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:layout_marginTop="@dimen/mediumMargin">
+        android:layout_marginTop="@dimen/mediumScale">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="@dimen/smallMergin"
+            android:layout_marginBottom="@dimen/smallScale"
             android:fontFamily="sans-serif-black"
             android:text="@string/personName"
             android:textColor="@color/black"
@@ -40,7 +40,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/specialty"
-            android:layout_marginBottom="@dimen/smallMergin"
+            android:layout_marginBottom="@dimen/smallScale"
             android:textColor="@color/black"/>
 
         <TextView
@@ -53,7 +53,7 @@
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           android:orientation="horizontal"
-          android:layout_marginTop="@dimen/smallMergin">
+          android:layout_marginTop="@dimen/smallScale">
 
           <TextView
              android:layout_width="wrap_content"
@@ -80,7 +80,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:orientation="vertical"
-            android:layout_marginTop="@dimen/mediumMargin"
+            android:layout_marginTop="@dimen/mediumScale"
             android:gravity="end">
 
             <TextView
@@ -88,7 +88,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/Time"
                 android:background="@drawable/corners_text"
-                android:padding="@dimen/smallPadding"
+                android:padding="@dimen/smallScale"
                 android:textColor="@color/white" />
 
             <TextView
@@ -96,14 +96,14 @@
                 android:layout_height="wrap_content"
                 android:text="@string/country"
                 android:textColor="@color/black"
-                android:layout_marginTop="@dimen/smallMergin"/>
+                android:layout_marginTop="@dimen/smallScale"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/totalDays"
                 android:gravity="end"
-                android:layout_marginTop="@dimen/smallMergin"/>
+                android:layout_marginTop="@dimen/smallScale"/>
 
         </LinearLayout>
 
