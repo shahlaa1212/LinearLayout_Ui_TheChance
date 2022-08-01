@@ -15,7 +15,7 @@
         android:background="@drawable/corners_layout"
         android:padding="8dp">
 
-        <com.google.android.material.imageview.ShapeableImageView
+        <ImageView
             android:layout_width="100dp"
             android:layout_height="150dp"
             android:src="@drawable/prof"
