@@ -18,7 +18,7 @@
         <ImageView
             android:layout_width="100dp"
             android:layout_height="150dp"
-            android:src="@drawable/prof"
+            android:src="@drawable/profile"
             android:layout_marginEnd="@dimen/smallScale"/>
 
     <LinearLayout
