@@ -16,7 +16,7 @@ The app is built using the following technologies:
 
 - [Kotlin language](https://kotlinlang.org/): The app is built using the Kotlin programming language, which offers concise syntax and powerful features.
 - [XML](https://developer.android.com/reference/android/util/Xml): this tags define the data and used to store and organize data. It's easily scalable and simple to develop. In Android, the XML is used to implement UI-related data.
-- [Lottie Library](https://lottiefiles.com/): A powerful web-based Lottie animation tool, designed to create ultra-lightweight, highly customizable and interactive animations for web and apps
+- [ Linear Layout](https://developer.android.com/develop/ui/views/layout/linear): LinearLayout is a view group that aligns all children in a single direction, vertically or horizontally. You can specify the layout ..
 - [Android studio](https://developer.android.com/studio): Android Studio provides app builders with an integrated development environment (IDE) optimized for Android apps.
 
 ## 📷 Screens
